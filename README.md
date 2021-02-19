@@ -1,2 +1,2 @@
 # ReactJS-Editor
-Created with CodeSandbox
+React, A JavaScript library for building user interfaces, Web editor
